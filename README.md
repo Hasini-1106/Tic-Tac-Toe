@@ -14,5 +14,3 @@ HTML, CSS, JavaScript
 ## How to Run
 Clone the repository and open `index.html` in a web browser.
 
-## License
-MIT License
